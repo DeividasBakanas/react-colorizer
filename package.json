@@ -72,7 +72,7 @@
     "jsdom-global": "^3.0.2",
     "mocha": "^5.0.0",
     "prettier": "^1.11.1",
-    "react": "^16.2.0",
+    "react": "16.6.1",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^16.2.0",
     "react-native": "^0.57.0",
